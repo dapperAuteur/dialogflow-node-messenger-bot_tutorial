@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/dapperAuteur/dialogflow-node-messenger-bot_tutorial#readme",
   "dependencies": {
+    "apiai": "^4.0.3",
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
     "request": "^2.88.0"
