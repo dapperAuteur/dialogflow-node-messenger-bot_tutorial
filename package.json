@@ -1,0 +1,31 @@
+{
+  "name": "bot_tutorial",
+  "version": "1.0.0",
+  "description": "dialogflow nodejs express facebook messenger tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dapperAuteur/dialogflow-node-messenger-bot_tutorial.git"
+  },
+  "keywords": [
+    "dialogflow",
+    "nodejs",
+    "express",
+    "facebook",
+    "messenger",
+    "tutorial"
+  ],
+  "author": "aweful <aweful@awews.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dapperAuteur/dialogflow-node-messenger-bot_tutorial/issues"
+  },
+  "homepage": "https://github.com/dapperAuteur/dialogflow-node-messenger-bot_tutorial#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
